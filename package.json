@@ -1,8 +1,17 @@
 {
-  "name": "api_v1",
-  "version": "v1",
-  "description": "Object",
-  "license": "Unlicense",
+  "name": "@menadevs/tilde-api",
+  "version": "1.0.0",
+  "description": "menadevs.com portal's API client",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mena-devs/tilde-api-client.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mena-devs/tilde-api-client/issues"
+  },
+  "author": "",
+  "homepage": "https://github.com/mena-devs/tilde-api-client#readme",
   "main": "src/index.js",
   "scripts": {
     "test": "mocha --compilers js:babel-core/register --recursive"
