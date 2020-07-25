@@ -1,6 +1,6 @@
 {
   "name": "@menadevs/tilde-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "menadevs.com portal's API client",
   "license": "MIT",
   "type": "module",
