@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "menadevs.com portal's API client",
   "license": "MIT",
+  "type": "module",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mena-devs/tilde-api-client.git"
